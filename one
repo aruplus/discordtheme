@@ -1,0 +1,9 @@
+/* Main Wallpaper */
+#app-mount {
+    background: url("https://i.gyazo.com/e43f39ce02b7f6b1aa771c849647b270.png") center/cover no-repeat;
+}
+
+/* HOME BUTTON BACKGROUND */
+.homeIcon-tEMBK1 {
+    background: url(https://i.gyazo.com/c75a94c5b2728d457844d46632478c9e.png) center/contain no-repeat;
+}
